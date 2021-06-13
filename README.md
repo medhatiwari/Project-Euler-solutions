@@ -1,2 +1,5 @@
 # Project-Euler-solutions
-This Repository contains solution code to some of the project Euler Problems
+This Repository contains solution code to the following Project Euler Problems
+
+3, 7, 8, 10, 12, 13, 14, 15, 16(will be avialable soon), 20, 21, 23, 24, 25, 26, 27, 28, 29, 30, 34, 35, 37, 39, 41, 42, 46, 47, 48, 49, 50, 58, 70, 87, 97(will be avialable soon), 210
+
